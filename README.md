@@ -1,6 +1,6 @@
 # Professional Portfolio - Carlos Miguel Iegli da Silva
 
-🌐 **Live Site:** [https://carlosmigueliegli.github.io](https://carlosmigueliegli.github.io)
+🌐 **Live Site:** [https://migueliegli.github.io](https://migueliegli.github.io)
 
 ## 📋 About This Project
 
